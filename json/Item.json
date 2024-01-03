@@ -1,0 +1,72 @@
+[
+  {
+    "nombre": "Juan",
+    "apellido": "Gómez",
+    "edad": 28,
+    "ciudad": "Buenos Aires",
+    "profesion": "Ingeniero de Software"
+  },
+  {
+    "nombre": "María",
+    "apellido": "López",
+    "edad": 35,
+    "ciudad": "Madrid",
+    "profesion": "Diseñadora Gráfica"
+  },
+  {
+    "nombre": "Carlos",
+    "apellido": "Martínez",
+    "edad": 42,
+    "ciudad": "Ciudad de México",
+    "profesion": "Consultor Financiero"
+  },
+  {
+    "nombre": "Ana",
+    "apellido": "Fernández",
+    "edad": 31,
+    "ciudad": "Bogotá",
+    "profesion": "Médico"
+  },
+  {
+    "nombre": "Pedro",
+    "apellido": "González",
+    "edad": 29,
+    "ciudad": "Lima",
+    "profesion": "Ingeniero Civil"
+  },
+  {
+    "nombre": "Laura",
+    "apellido": "Rodríguez",
+    "edad": 25,
+    "ciudad": "Santiago",
+    "profesion": "Periodista"
+  },
+  {
+    "nombre": "Daniel",
+    "apellido": "Hernández",
+    "edad": 38,
+    "ciudad": "Caracas",
+    "profesion": "Arquitecto"
+  },
+  {
+    "nombre": "Sofía",
+    "apellido": "Pérez",
+    "edad": 33,
+    "ciudad": "Lisboa",
+    "profesion": "Profesor de Historia"
+  },
+  {
+    "nombre": "Miguel",
+    "apellido": "Díaz",
+    "edad": 26,
+    "ciudad": "Barcelona",
+    "profesion": "Ingeniero Eléctrico"
+  },
+  {
+    "nombre": "Isabella",
+    "apellido": "Silva",
+    "edad": 30,
+    "ciudad": "Río de Janeiro",
+    "profesion": "Psicóloga"
+  }
+]

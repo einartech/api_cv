@@ -2,7 +2,8 @@
 import express from "express";
 import cors from "cors";
 import connectDB from "./db/connectdb.js";
-import apiRoutes from "./routes/ItemRoute.js";
+import itemRoutes from "./routes/ItemRoute.js"; // Cambiado el nombre del import
+import companyRoutes from "./routes/CompanyRoute.js"; // Cambiado el nombre del import
 import dotenv from 'dotenv';
 
 dotenv.config();
@@ -20,7 +21,8 @@ app.use(cors({
 connectDB();
 
 // Usar las rutas de la API
-app.use(apiRoutes);
+app.use(itemRoutes);
+app.use(companyRoutes);
 
 app.listen(port, () => {
   console.log(`Servidor API en http://localhost:${port}`);

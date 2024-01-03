@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Tech Innovators",
+    "city": "Silicon Valley",
+    "info": "Innovating in technology and software development."
+  },
+  {
+    "name": "Finance Wizards",
+    "city": "New York",
+    "info": "Financial services company specializing in investments."
+  },
+  {
+    "name": "Creative Designs",
+    "city": "Los Angeles",
+    "info": "Graphic design and creativity company."
+  },
+  {
+    "name": "HR Consultancy",
+    "city": "London",
+    "info": "Consulting company in human resources."
+  },
+  {
+    "name": "ElectroTech Solutions",
+    "city": "Tokyo",
+    "info": "Manufacturing and distribution of electronic products."
+  },
+  {
+    "name": "Digital Marketing Pros",
+    "city": "Paris",
+    "info": "Digital marketing and online advertising company."
+  },
+  {
+    "name": "MediTech Research",
+    "city": "Berlin",
+    "info": "Research and development in medical sciences."
+  },
+  {
+    "name": "Global Logistics",
+    "city": "Singapore",
+    "info": "Logistics and international transportation services."
+  },
+  {
+    "name": "Architectural Visions",
+    "city": "Sydney",
+    "info": "Architecture and interior design company."
+  },
+  {
+    "name": "MediaMasters Productions",
+    "city": "Los Angeles",
+    "info": "Production and distribution of multimedia content."
+  }
+]
