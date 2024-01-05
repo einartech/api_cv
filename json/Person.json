@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Juan",
+    "surname": "Gómez",
+    "age": 28,
+    "city": "Buenos Aires",
+    "adress": "123 Main Street",
+    "profesion": "Ingeniero de Software",
+    "hobbies": "Programación, Leer"
+  },
+  {
+    "name": "María",
+    "surname": "López",
+    "age": 35,
+    "city": "Madrid",
+    "adress": "456 Oak Avenue",
+    "profesion": "Diseñadora Gráfica",
+    "hobbies": "Diseño, Pintura"
+  },
+  {
+    "name": "Carlos",
+    "surname": "Martínez",
+    "age": 42,
+    "city": "Ciudad de México",
+    "adress": "789 Pine Road",
+    "profesion": "Consultor Financiero",
+    "hobbies": "Finanzas, Viajar"
+  },
+  {
+    "name": "Ana",
+    "surname": "Fernández",
+    "age": 31,
+    "city": "Bogotá",
+    "adress": "101 Cedar Street",
+    "profesion": "Médico",
+    "hobbies": "Medicina, Deporte"
+  },
+  {
+    "name": "Pedro",
+    "surname": "González",
+    "age": 29,
+    "city": "Lima",
+    "adress": "202 Maple Lane",
+    "profesion": "Ingeniero Civil",
+    "hobbies": "Construcción, Fotografía"
+  },
+  {
+    "name": "Laura",
+    "surname": "Rodríguez",
+    "age": 25,
+    "city": "Santiago",
+    "adress": "303 Birch Boulevard",
+    "profesion": "Periodista",
+    "hobbies": "Escritura, Fotografía"
+  },
+  {
+    "name": "Daniel",
+    "surname": "Hernández",
+    "age": 38,
+    "city": "Caracas",
+    "adress": "404 Elm Street",
+    "profesion": "Arquitecto",
+    "hobbies": "Diseño, Viajar"
+  },
+  {
+    "name": "Sofía",
+    "surname": "Pérez",
+    "age": 33,
+    "city": "Lisboa",
+    "adress": "505 Cedar Avenue",
+    "profesion": "Profesor de Historia",
+    "hobbies": "Historia, Lectura"
+  },
+  {
+    "name": "Miguel",
+    "surname": "Díaz",
+    "age": 26,
+    "city": "Barcelona",
+    "adress": "606 Pine Road",
+    "profesion": "Ingeniero Eléctrico",
+    "hobbies": "Electrónica, Deporte"
+  },
+  {
+    "name": "Isabella",
+    "surname": "Silva",
+    "age": 30,
+    "city": "Río de Janeiro",
+    "adress": "707 Oak Avenue",
+    "profesion": "Psicóloga",
+    "hobbies": "Psicología, Arte"
+  }
+]
