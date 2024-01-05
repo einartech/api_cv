@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #000000;
     margin-top: 60px;
     margin-bottom: 60px;
 }
@@ -48,3 +48,28 @@ footer {
     margin-top: auto;
     /* Hacemos que el contenido del cuerpo empuje el footer hacia abajo */
 }
+
+.elegant-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: #f8f8f8;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.elegant-container h2 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.elegant-container p {
+    color: #555;
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 8px;
+}
+
+/* Agrega estilos adicionales según sea necesario */
