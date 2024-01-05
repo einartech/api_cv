@@ -4,7 +4,7 @@ import mongoose from "mongoose";
 const Company = mongoose.model('Company', {
   name: String,
   city: String,
-  info: Number,
+  info: String,
 });
 
 export default Company;
